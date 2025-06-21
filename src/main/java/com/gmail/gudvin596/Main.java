@@ -17,6 +17,6 @@ public class Main {
     }
 
     private static String getMassage() {
-        return "Hello qa.quru!";
+        return msg;
     }
 }
